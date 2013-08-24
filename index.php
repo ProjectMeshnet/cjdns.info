@@ -19,6 +19,11 @@
 	<p>
 	  Cjdns implements an encrypted IPv6 network using public key cryptography for address allocation and a distributed hash table for routing. This provides near zero-configuration networking without many of the security and robustness issues that regular IPv4 and IPv6 networks have.
 	</p>
+	<p>
+	  <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=watch&count=true" allowtransparency="true" frameborder="0" height="20" width="100"></iframe>
+	  <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=fork&count=true" allowtransparency="true" frameborder="0" height="20" width="100"></iframe>
+	  <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=follow&count=true" allowtransparency="true" frameborder="0" height="20" width="200"></iframe>
+	</p>
       </div>
       <div class="b">
 	cjdns was created by Caleb James DeLisle
@@ -35,7 +40,11 @@
         </p>
         <p>
           Cjdns implements an encrypted IPv6 network using public key cryptography for address allocation and a distributed hash table for routing. This provides near zero-configuration networking without many of the security and robustness issues that regular IPv4 and IPv6 networks have.
-	  <iframe src="https://ghbtns.com/github-btn.html?user=markdotto&type=follow&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="20"></iframe>
+        </p>
+	<p>
+          <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=watch&count=true" allowtransparency="true" frameborder="0" height="20" width="100"></iframe>
+          <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=fork&count=true" allowtransparency="true" frameborder="0" height="20" width="100"></iframe>
+          <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=follow&count=true" allowtransparency="true" frameborder="0" height="20" width="200"></iframe>
         </p>
       </div>
       <div class="b">
@@ -58,6 +67,11 @@
           <br>cjdns was created by Caleb James DeLisle
           <br>This (unofficial) website is maintained by <a href="https://projectmeshnet.org/">Project Meshnet</a>
 	</p>
+	<p>
+          <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=watch&count=true" allowtransparency="true" frameborder="0" height="20" width="100"></iframe>
+          <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=fork&count=true" allowtransparency="true" frameborder="0" height="20" width="100"></iframe>
+          <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=follow&count=true" allowtransparency="true" frameborder="0" height="20" width="200"></iframe>
+        </p>
       </div>
     </div>
     <div class="visible-xs">
@@ -74,6 +88,11 @@
 	<p>
           <br>cjdns was created by Caleb James DeLisle
           <br>This (unofficial) website is maintained by <a href="https://projectmeshnet.org/">Project Meshnet</a>
+        </p>
+	<p>
+          <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=watch&count=true" allowtransparency="true" frameborder="0" height="20" width="100"></iframe>
+          <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=fork&count=true" allowtransparency="true" frameborder="0" height="20" width="100"></iframe>
+          <iframe src="http://ghbtns.com/github-btn.html?user=cjdelisle&repo=cjdns&type=follow&count=true" allowtransparency="true" frameborder="0" height="20" width="200"></iframe>
         </p>
       </div>
     </div>

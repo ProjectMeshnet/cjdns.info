@@ -1,0 +1,41 @@
+
+body {
+    background-color: #111;
+    color: #FFF;
+}
+
+.l-lg, .l-md {
+    position: fixed;
+    top: 100px;
+    left: 10%;
+    font-size: 100px;
+    font-weight: 900;
+}
+
+.l-xs, .l-sm {
+    text-align: center;
+    font-size: 100px;
+    font-weight: 900;
+}
+
+.r-lg, .r-md {
+    text-align: justify;
+    position: fixed;
+    top: 100px;
+    left: 40%;
+    max-width: 50%;
+    width: 50%;
+    font-size: 20px;    
+}
+
+.r-sm, .r-xs {
+    text-align: justify;
+    padding: 25px;
+    font-size: 20px;
+}
+
+.b {
+    position: fixed;
+    bottom: 25px;
+    left: 25px;
+}
